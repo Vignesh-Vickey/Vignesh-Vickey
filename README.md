@@ -1,18 +1,69 @@
-[README.md](https://github.com/user-attachments/files/21827751/README.md)
 <h1 align="center">Hi 👋, I'm Vignesh B</h1>
-<h3 align="center">CSE Student @ Sathyabama | Security Enthusiast | CTFs + Scripts</h3>
+<h3 align="center">Cloud & DevOps Enthusiast | Linux Server Administration | Networking Fundamentals</h3>
 
-- 🔭 I’m currently working on [Cloud_Web_Host](https://github.com/Vignesh-Vickey/Cloud_Web_Host)
+---
 
-- 🌱 I’m currently learning **Networking basics (OSI/TCP/IP, DNS, HTTP/HTTPS), Linux fundamentals (shell, permissions, processes), CTF practice on beginner-friendly platforms**
+## 🚀 About Me
 
-- 📫 How to reach me **vignesh.vickey2k5@gmail.com**
+🎓 Third-Year Computer Science Engineering Student at Sathyabama Institute of Science and Technology  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vignesh2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vignesh2k" height="30" width="40" /></a>
-</p>
+💡 Strong interest in Cloud Infrastructure, DevOps, and System Administration  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+🖥️ Built a personal HomeLab environment using Ubuntu Server to practice:
+- SSH configuration (key-based authentication)
+- Firewall management (UFW)
+- Static IP configuration
+- Linux system administration
+- Networking fundamentals
 
+⚙️ Passionate about understanding how systems work behind the scenes.
+
+---
+
+## 🔭 Current Focus
+
+- Linux fundamentals (shell, permissions, processes, services)
+- Networking (OSI model, TCP/IP, DNS, HTTP/HTTPS)
+- Git & Version Control
+- Docker basics
+- AWS fundamentals (EC2, S3, VPC)
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:**  
+Python, C, C++, Java, Shell Scripting, SQL  
+
+**Cloud & DevOps:**  
+Linux, Git, GitHub, Docker (Basics), AWS Fundamentals  
+
+**Networking:**  
+IP Addressing, DNS, Firewalls, SSH, Virtual Machines  
+
+**Hardware & IoT:**  
+Arduino, Raspberry Pi, MQ-Series Sensors, Embedded Systems  
+
+---
+
+## 📂 Featured Project
+
+### 🖥️ HomeLab – Linux & Cloud Learning Environment
+Simulated a real-world server setup using Ubuntu Server.
+
+- Configured SSH with key-based authentication  
+- Disabled root and password login for security  
+- Implemented firewall rules using UFW  
+- Managed server remotely  
+- Practiced networking and system-level troubleshooting  
+
+---
+
+## 📫 Contact Me
+
+📧 Email: vignesh.vickey2k5@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/vignesh2k  
+
+---
+
+⚡ *“Learning by building real systems.”*
